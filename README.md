@@ -8,7 +8,7 @@ Amante por tecnologia, comecei a estudar programação do zero em 2021 e me apai
 
 * 🌍  Resido em São Paulo
 * ✉️  Contato pessoal [bissi.dev@gmail.com](mailto:bissi.dev@gmail.com)
-* 🧠  Estou aprendendo Python
+* 🧠  Atualmente aprendendo Python
 
 ### Habilidades:
 

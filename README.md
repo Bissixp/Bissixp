@@ -29,7 +29,7 @@ Amante por tecnologia, comecei a estudar programação do zero em 2021 e me apai
 
 ### Social:
 
-<p align="left"> <a href="https://www.github.com/bissixp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ferbissi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+</a> <a href="https://www.linkedin.com/in/ferbissi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Stats:
 

@@ -1,6 +1,6 @@
 Olá, sou o Fernando Bissi
 ===============================
-Fullstack Dev Jr.
+Desenvolvedor Web Full stack Jr.
 -----------------------
 
 Amante de tecnologia, comecei a estudar programação do zero em 2021 e me apaixonei pela área. Dediquei um ano aos estudos na escola de programação Trybe, onde desenvolvi projetos tanto individuais quanto em grupo. Após minha formação, concluí meu primeiro projeto pessoal. Pasta so Tasty
